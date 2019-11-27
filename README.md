@@ -1,13 +1,11 @@
 # gitbook cool
 
 收集酷作品  
-全部是免费资源
 
 ## License
 [GNU General Public License v3.0](LICENSE)
 
-
-
+---
 
 ### 专栏
 - [区块链全景课](https://gitbook.cn/gitchat/column/5b026d0dedd0d46379a7bc55)
