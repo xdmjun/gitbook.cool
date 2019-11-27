@@ -13,6 +13,22 @@
 - [React Native 实战：构建电商 App](https://gitbook.cn/gitchat/column/5aa8a68b0bb9e857450e2308)
 - [CNCF X 阿里巴巴云原生技术公开课](https://gitbook.cn/gitchat/column/5d68b823de93ed72d6eca1bc)
 
+### 工具站点
+- [面向中小学生及其家长辅助学习的一些小工具](http://www.boledao.com/)
+- [数学公式转Latex工具](https://mathpix.com/)
+- [图片压缩](https://www.yasuotu.com/)
+- [tinypng](https://tinypng.com/)
+- [jpeg压缩](https://compressjpeg.com/zh/)
+- [Nginx配置在线生成](https://nginxconfig.io/)
+- [xclient](https://xclient.info/)
+- [macpeers](https://www.macpeers.com/)
+- [Let’s Encrypt](https://letsencrypt.org/zh-cn/getting-started/)
+- [w3cschool在线工具库](https://123.w3cschool.cn/webtools)
+- [渐变色配色](https://uigradients.com)
+- [中国风配色](http://zhongguose.com/)
+- [RGB颜色值与十六进制颜色码转换工具](https://www.sioe.cn/yingyong/yanse-rgb-16/)
+- [自己的在线markdown转html(微信公众号利器)工具](http://om.tiaocaoer.com:8300/)
+
 ### 电子书
 - [人工智能之知识图谱](https://gitbook.cn/gitchat/geekbook/5c74aa0d6203c926b7ba98b9) 
 - [人脸识别研究报告](https://gitbook.cn/gitchat/geekbook/5bc45e05046eb7300661459d) 
@@ -70,22 +86,6 @@
 - [微信公众平台技术文档](https://mp.weixin.qq.com/wiki?t=resource/res_main&id=mp1445241432)
 - [微信公众号官方文档](https://developers.weixin.qq.com/doc/offiaccount/Getting_Started/Overview.html)
 
-### 工具站点
-- [面向中小学生及其家长辅助学习的一些小工具](http://www.boledao.com/)
-- [数学公式转Latex工具](https://mathpix.com/)
-- [图片压缩](https://www.yasuotu.com/)
-- [tinypng](https://tinypng.com/)
-- [jpeg压缩](https://compressjpeg.com/zh/)
-- [Nginx配置在线生成](https://nginxconfig.io/)
-- [xclient](https://xclient.info/)
-- [macpeers](https://www.macpeers.com/)
-- [Let’s Encrypt](https://letsencrypt.org/zh-cn/getting-started/)
-- [w3cschool在线工具库](https://123.w3cschool.cn/webtools)
-- [渐变色配色](https://uigradients.com)
-- [中国风配色](http://zhongguose.com/)
-- [RGB颜色值与十六进制颜色码转换工具](https://www.sioe.cn/yingyong/yanse-rgb-16/)
-- [自己的在线markdown转html(微信公众号利器)工具](http://om.tiaocaoer.com:8300/)
-
 ### 开源收藏
 - [张鑫旭大神的LuLuUI](https://l-ui.com/content/about/design.html)
 - [laydate](https://www.layui.com/laydate/)
@@ -109,7 +109,9 @@
 - [acme协议,从letsencrypt生成免费的证书](https://github.com/Neilpang/acme.sh/wiki/%E8%AF%B4%E6%98%8E)
 - [12306智能抢票](https://github.com/testerSunshine/12306)
 - [一文多发平台](https://github.com/crawlab-team/artipub)
+- [一款可以在浏览器中运行的人脸识别库](https://github.com/justadudewhohacks/face-api.js)
 
 ### 趣站收藏
 - [歧梦谷-清明梦社区](https://www.68m.com/Dream/)
 - [曳舞天下-曳步舞学习](http://www.shuffle.net.cn/)
+- [液体仿真效果,抖动浏览器窗口吧](https://liquid.lab.lorenzocadamuro.com/)
