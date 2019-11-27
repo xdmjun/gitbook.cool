@@ -1,6 +1,6 @@
 # gitbook.cool
 
-收集酷作品  
+收集酷东西  
 
 ## License
 [GNU General Public License v3.0](LICENSE)
