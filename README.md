@@ -1,4 +1,4 @@
-# gitbook cool
+# gitbook.cool
 
 收集酷作品  
 
