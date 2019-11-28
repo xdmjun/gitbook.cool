@@ -1,17 +1,18 @@
 # gitbook.cool
 
-收集酷东西(专栏、开源软件、技术文档、在线工具、资讯网站)  
+收集酷东西(在线课程、开源软件、技术文档、在线工具、资讯网站)  
 
 ## License
 [GNU General Public License v3.0](LICENSE)
 
 ---
 
-### 专栏
+### 课程
 - [区块链全景课](https://gitbook.cn/gitchat/column/5b026d0dedd0d46379a7bc55)
 - [深入浅出 Docker 技术栈实践课](https://gitbook.cn/gitchat/column/59e464726958416d85ae9207) 
 - [React Native 实战：构建电商 App](https://gitbook.cn/gitchat/column/5aa8a68b0bb9e857450e2308)
 - [CNCF X 阿里巴巴云原生技术公开课](https://gitbook.cn/gitchat/column/5d68b823de93ed72d6eca1bc)
+- [小程序 · 云开发实战：搭建小程序订阅消息系统](https://gitbook.cn/gitchat/activity/5dd39b3fa38b957249da910b)
 
 ### 工具站点
 - [面向中小学生及其家长辅助学习的一些小工具](http://www.boledao.com/)
@@ -27,7 +28,7 @@
 - [渐变色配色](https://uigradients.com)
 - [中国风配色](http://zhongguose.com/)
 - [RGB颜色值与十六进制颜色码转换工具](https://www.sioe.cn/yingyong/yanse-rgb-16/)
-- [自己的在线markdown转html(微信公众号利器)工具](http://om.tiaocaoer.com:8300/)
+- [在线markdown转html(微信公众号利器)工具](http://om.tiaocaoer.com:8300/)
 - [js抽象语法树在线生成](https://esprima.org/demo/parse.html)
 
 ### 电子书
@@ -35,6 +36,17 @@
 - [人脸识别研究报告](https://gitbook.cn/gitchat/geekbook/5bc45e05046eb7300661459d) 
 - [区块链基础理论与研究概况（前沿版）](https://gitbook.cn/gitchat/geekbook/5bd7ca208b3f803a63efe91b)
 - [携程技术2018年度合集](https://gitbook.cn/gitchat/geekbook/5c4abd3b4ab8b926cf73acc5)
+
+### 职场
+- [如何判断一家公司是否靠谱](https://gitbook.cn/gitchat/activity/5ddcd70586c42d71359757fa)
+- [什么决定了你的职场天花板？](https://gitbook.cn/gitchat/activity/5dda772c567b7c39ec7accad)
+- [程序员的核心竞争力](https://gitbook.cn/gitchat/activity/5dc922a87799626a148d1b3d)
+- [从面试官角度观察到的程序员工资瓶颈，同时给出突破瓶颈的建议](https://gitbook.cn/gitchat/activity/5d98575ed198057ccff3a6e0)
+- [五分钟看懂开源协议](https://gitbook.cn/gitchat/activity/5d655fd435a6284665bb95e4)
+- [入职新公司，如何快速凸显个人价值](https://gitbook.cn/gitchat/activity/5d550f430af67620ecc747a6)
+- [每个开发人员都应具备的软技能](https://gitbook.cn/gitchat/activity/5d4cdb97fd1b6b059b69c5e3)
+- [如何玩转短视频提升影响力？](https://gitbook.cn/gitchat/activity/5b371f9368acc52a655dd6aa)
+- [程序员跳槽时，如何高效地准备面试？](https://gitbook.cn/gitchat/activity/5a686cdc27db711d76937402)
 
 ### 行业资讯
 - [36kr](https://36kr.com/)
