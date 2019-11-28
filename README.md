@@ -67,6 +67,9 @@
 
 ### 报告
 - [企鹅智库新一线城市互联网生态指数报告](https://tech.qq.com/a/20190307/004670.htm#p=1)
+- [2019年成长焦虑白皮书](http://report.iresearch.cn/report_pdf.aspx?id=3473)
+- [2019年中国教育信息化行业研究报告](http://report.iresearch.cn/report_pdf.aspx?id=3440)
+- [2019H1中国在线教育行业数据发布报告](http://report.iresearch.cn/report_pdf.aspx?id=3452)
 
 ### 技术分享
 - [InfoQ](https://www.infoq.cn/)
