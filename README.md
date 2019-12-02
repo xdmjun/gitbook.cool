@@ -29,6 +29,7 @@
 - [RGB颜色值与十六进制颜色码转换工具](https://www.sioe.cn/yingyong/yanse-rgb-16/)
 - [在线markdown转html(微信公众号利器)工具](http://om.tiaocaoer.com:8300/)
 - [js抽象语法树在线生成](https://esprima.org/demo/parse.html)
+- [小程序反编译工具(支持分包)](https://github.com/xuedingmiaojun/wxappUnpacker)
 
 ### 电子书
 - [人工智能之知识图谱](https://gitbook.cn/gitchat/geekbook/5c74aa0d6203c926b7ba98b9) 
