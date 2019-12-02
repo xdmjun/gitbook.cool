@@ -29,7 +29,6 @@
 - [RGB颜色值与十六进制颜色码转换工具](https://www.sioe.cn/yingyong/yanse-rgb-16/)
 - [在线markdown转html(微信公众号利器)工具](http://om.tiaocaoer.com:8300/)
 - [js抽象语法树在线生成](https://esprima.org/demo/parse.html)
-- [小程序反编译工具(支持分包)](https://github.com/xuedingmiaojun/wxappUnpacker)
 
 ### 电子书
 - [人工智能之知识图谱](https://gitbook.cn/gitchat/geekbook/5c74aa0d6203c926b7ba98b9) 
@@ -127,6 +126,7 @@
 - [一文多发平台](https://github.com/crawlab-team/artipub)
 - [一款可以在浏览器中运行的人脸识别库](https://github.com/justadudewhohacks/face-api.js)
 - [可视化学习算法的工具](https://github.com/algorithm-visualizer/algorithm-visualizer)
+- [小程序反编译工具(支持分包)](https://github.com/xuedingmiaojun/wxappUnpacker)
 
 ### 趣站收藏
 - [歧梦谷-清明梦社区](https://www.68m.com/Dream/)
