@@ -127,6 +127,7 @@
 - [一款可以在浏览器中运行的人脸识别库](https://github.com/justadudewhohacks/face-api.js)
 - [可视化学习算法的工具](https://github.com/algorithm-visualizer/algorithm-visualizer)
 - [小程序反编译工具(支持分包)](https://github.com/xuedingmiaojun/wxappUnpacker)
+- [内网穿透工具lanproxy](https://github.com/ffay/lanproxy)
 
 ### 趣站收藏
 - [歧梦谷-清明梦社区](https://www.68m.com/Dream/)
